@@ -40,14 +40,13 @@ Manter a documentação e os prazos de um veículo em dia pode ser desafiador. O
 - **Google Play Services & Calendar Contract** (Integração com Calendário)
 
 ---
-
-## 💡 Apoie o Desenvolvimento
-Esta aplicação é totalmente livre para testar e utilizar. Se achas o **Carro Seguro** útil e queres apoiar o desenvolvimento contínuo, podes contribuir com uma doação de **1€** (ou o valor que entenderes) através do [PayPal](https://paypal.me/manelitomartins/1).
+### ☕ Apoio ao Projeto
+O **Carro Seguro** é um projeto 100% gratuito e independente. Se quiseres apoiar o desenvolvimento de novas funcionalidades, encontras uma opção de doação por PayPal diretamente na aplicação. Obrigado pelo apoio!
 
 ---
 
 ## 📢 Sugestões e Feedback
-Tens alguma ideia de melhoria ou encontraste um erro? Podes enviar o teu feedback diretamente através do [Formulário de Sugestões](https://docs.google.com/forms/d/e/1FAIpQLSdwi9i7dikEb1V-NGzVoauhgn5YmxgDZGNQn3tJNhVgmS7j6Q/viewform?usp=publish-editor).
+Tens alguma ideia de melhoria ou encontraste um erro? Podes enviar o teu feedback diretamente através do Formulário de Sugestões dentro da aplicação
 
 ---
 
